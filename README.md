@@ -1,6 +1,7 @@
-- 👋 Hi, I’m MOHIT 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer knowledge
+- 👋 Hi, I’m MOHIT Rajput
+- 👀 I’m a Web Developer (Frontend)
+- 🏫 DSA READER
+- 🌱 I’m currently learning computer knowledge 
 - 💞️ I’m looking to collaborate on my community
 
 
