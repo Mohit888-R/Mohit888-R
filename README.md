@@ -1,13 +1,3 @@
-Hi there 👋
-Call me mohit
-
-I'm a computer science student at MITRC, alwar
-- 👋 Hi, I’m MOHIT Singh Rajput
-- 👀 I’m a Web Developer (Frontend)
-- 🏫 Data Structure & Algorithms Good Sound Knowledge
-
-Looking apportunity whole time. 
-Hit me up if you have some interesting project or sparkling ideas🤩
 
 
 <h1 align="center">Hi 👋, I'm Mohit Singh Rajput</h1>
