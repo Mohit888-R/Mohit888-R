@@ -7,7 +7,7 @@ I'm a computer science student at MITRC, alwar
 - 🏫 Data Structure & Algorithms Good Sound Knowledge
 
 Looking apportunity whole time. 
-
+Hit me up if you have some interesting project or sparkling ideas🤩
 
 
 <!---
