@@ -1,8 +1,13 @@
-- 👋 Hi, I’m MOHIT Rajput
+Hi there 👋
+Call me mohit
+
+I'm a computer science student at MITRC, alwar
+- 👋 Hi, I’m MOHIT Singh Rajput
 - 👀 I’m a Web Developer (Frontend)
-- 🏫 DSA READER
-- 🌱 I’m currently learning computer knowledge 
-- 💞️ I’m looking to collaborate on my community
+- 🏫 Data Structure & Algorithms Good Sound Knowledge
+
+Looking apportunity whole time. 
+
 
 
 <!---
