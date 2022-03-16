@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/mohitsi44211571" target="blank"><img src="https://img.shields.io/twitter/follow/mohitsi44211571?logo=twitter&style=for-the-badge" alt="mohitsi44211571" /></a> </p>
 
-- 🔭 I’m currently working on **Data structure and Algorithms**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Vanilla javascript**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 💬 Ask me about **DSA, HTML, & CSS**
+- 💬 Ask me about **C++, HTML, CSS, Javascript, Nodejs, Expressjs, & Mongodb **
 
 - 📫 How to reach me **naruka.mohit88@gmail.com**
 
