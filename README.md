@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh Rajput</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate mern developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit888-r&label=Profile%20views&color=0e75b6&style=flat" alt="mohit888-r" /> </p>
 
