@@ -26,9 +26,7 @@
 <div align="left">
 <a  href="https://twitter.com/mohitsi44211571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitsi44211571" height="30" width="40" /></a>
 <a  href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-singh-536115203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-singh-536115203/" height="30" width="40" /></a>
-
  <a  href="https://stackoverflow.com/users/https://stackoverflow.com/users/15832446/mohit-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15832446/mohit-singh" height="30" width="40" /></a>
-
 <a href="https://medium.com/@naruka.mohit88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naruka.mohit88" height="30" width="40" /></a>
 <div>
 
