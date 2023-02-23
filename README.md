@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit888-r" alt="mohit888-r" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mohit-rajput88/" target="blank"><img src="https://img.shields.io/LinkedIn/follow/mohit-rajput88?logo=twitter&style=for-the-badge" alt="mohitsi44211571" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohit-rajput88/" target="blank"><img src="https://img.shields.io/linkedin/follow/mohit-rajput88?logo=linkedin&style=for-the-badge" alt="mohit-rajput88" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Developement**
+- 🔭 I’m currently working on **ORUPhones PVT. LTD.**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **FULL STACK DEVELOPEMENT**
 
-- 👯 I’m looking to collaborate on **Web projects**
+- 👯 I’m looking to collaborate on **Real World projects**
 
-- 💬 Ask me about **C++, HTML, CSS, Javascript, Nodejs, Expressjs, & Mongodb**
+- 💬 Ask me about **C++, HTML, CSS, Javascript,ReactJs, NextJs Nodejs, Expressjs, & Mongodb**
 
 - 📫 How to reach me **naruka.mohit88@gmail.com**
 
-- ⚡ Fun fact **I think I am crazy man**
+- ⚡ Fun fact **I am a passionate person to my work.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
