@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh Rajput</h1>
-<h3 align="center">A passionate mern developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit888-r&label=Profile%20views&color=0e75b6&style=flat" alt="mohit888-r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit888-r" alt="mohit888-r" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohitsi44211571" target="blank"><img src="https://img.shields.io/twitter/follow/mohitsi44211571?logo=twitter&style=for-the-badge" alt="mohitsi44211571" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohit-rajput88/" target="blank"><img src="https://img.shields.io/LinkedIn/follow/mohit-rajput88?logo=twitter&style=for-the-badge" alt="mohitsi44211571" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Developement**
 
