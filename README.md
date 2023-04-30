@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Real World projects**
 
-- 💬 Ask me about **C++, HTML, CSS, Javascript,ReactJs, NextJs Nodejs, Expressjs, & Mongodb**
+- 💬 Ask me about **C++, HTML, CSS, Javascript,ReactJs, NextJs, Nodejs, Expressjs, & Mongodb**
 
 - 📫 How to reach me **naruka.mohit88@gmail.com**
 
