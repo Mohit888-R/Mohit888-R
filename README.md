@@ -7,15 +7,15 @@
 
 
 
-- 🌱 I’m currently working on **FULL STACK DEVELOPEMENT**
+- 🌱 I’m currently working on **FULLSTACK DEVELOPMENT**
 
 - 👯 I’m looking to collaborate on **Real World projects**
 
-- 💬 Ask me about **C++, HTML, CSS, Javascript,ReactJs, NextJs, Nodejs, Expressjs, & Mongodb**
+- 💬 Ask me about **C++, HTML5, CSS3,TailwindCSS, Javascript, Typescript, ReactJs, NextJs(14), Nodejs, Expressjs, & Mongodb, AWS, Jotai, Redux, S3, EC2, Docker, Figma, Firebase, Razorpay, Shadcn, MaterialUI, etc.**
 
 - 📫 How to reach me **naruka.mohit88@gmail.com**
 
-- ⚡ Fun fact **I am a passionate person to my work.**
+- ⚡ Fun fact **I am a passionate person in my work.**
 
 
 <!-- BLOG-POST-LIST:START -->
@@ -28,6 +28,13 @@
  <a  href="https://stackoverflow.com/users/15832446/mohit-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15832446/mohit-singh" height="30" width="40" /></a>
 <a href="https://medium.com/@mohit-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naruka.mohit88" height="30" width="40" /></a>
 <div>
+<br/>
+
+<div >
+
+[![Check out Mohit888-R's profile on stardev.io](https://stardev.io/developers/Mohit888-R/badge/languages/global.svg)](https://stardev.io/developers/Mohit888-R)
+</div>
+
 
 
 
