@@ -29,8 +29,8 @@
 
 ## 🚀 About Me
 
-- 🌱 Deep diving into **Next.js 14**, **System Design**, and **Scalable Fullstack Architectures**
-- 🧠 Practicing **DSA in TypeScript**
+- 🌱 Deep diving into **Next.js 16**, **System Design**, and **Scalable Fullstack Architectures**
+- 🧠 Practicing **DSA in C++**
 - 🧪 Exploring **Web3 & Blockchain fundamentals**
 - 👯 Open to collaborating on **real-world, impact-driven products**
 - ⚡ Obsessed with clean code, performance, and great DX
@@ -57,7 +57,7 @@
 | Frontend | Backend & DB | DevOps & Cloud | Languages & Tools |
 |:---:|:---:|:---:|:---:|
 | React.js | Node.js | AWS (EC2, S3) | TypeScript |
-| Next.js 14 | Express.js | Docker | JavaScript |
+| Next.js 16 | Express.js | Docker | JavaScript |
 | TailwindCSS | MongoDB | Firebase | C++ |
 | Shadcn UI | PostgreSQL | Vercel | Git |
 | Material UI | Prisma | | Figma |
