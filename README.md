@@ -113,7 +113,6 @@ const mohit = {
 - [ ] ☁️ AWS Certified Solutions Architect
 - [ ] 🧵 Build a public dev audience (LinkedIn + Medium)
 - [ ] 🌍 Contribute to 5+ open source projects
-- [ ] 💼 Land a 15 LPA+ Full Stack role
 
 ---
 
