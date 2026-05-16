@@ -24,7 +24,7 @@ const mohit = {
   role:       "Full Stack Developer",
   location:   "India 🇮🇳",
   education:  "B.Tech, MITRC '24",
-  focus:      ["Scalable SaaS", "AI-integrated apps", "System Design"],
+  focus:      ["Agentic Reasoning", "Autonomous Workflows", "Scalable SaaS Architecture", "AI-integrated apps", "System Design"],
   currentlyLearning: ["Scientific Python", "System Design", "AWS"],
   openTo:     "Founding Engineer · Full-time roles · Mentorship / Consultation · Open Source Collabs",
   funFact:    "I'm very used to antigravity and i'm not ashamed 😄",
