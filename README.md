@@ -9,18 +9,10 @@
   <a href="https://twitter.com/mohitsi44211571">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/15832446/mohit-singh">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@mohit-singh">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
   <a href="mailto:naruka.mohit88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=mohit888-r&label=Profile+Views&color=6C63FF&style=flat-square" />
 
 </div>
 
@@ -33,9 +25,9 @@ const mohit = {
   location:   "India 🇮🇳",
   education:  "B.Tech, MITRC '24",
   focus:      ["Scalable SaaS", "AI-integrated apps", "System Design"],
-  currentlyLearning: ["Next.js App Router", "Redis", "AWS", "Web3"],
-  openTo:     "Full-time roles · Freelance · Open Source Collabs",
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
+  currentlyLearning: ["Scientific Python", "System Design", "AWS"],
+  openTo:     "Founding Engineer · Full-time roles · Mentorship / Consultation · Open Source Collabs",
+  funFact:    "I'm very used to antigravity and i'm not ashamed 😄",
 };
 ```
 
@@ -44,19 +36,25 @@ const mohit = {
 ## 🛠️ Tech Stack
 
 ### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend & Database
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+ ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -66,16 +64,6 @@ const mohit = {
 
 ---
 
-## 🚀 What I'm Building in 2026
-
-| Project | Stack | Status |
-|--------|-------|--------|
-| 🧠 AI Productivity SaaS | Next.js, OpenAI API, PostgreSQL, Stripe | 🔨 Building |
-| 🗃️ Decentralized File Storage | IPFS, Solidity, React | 🔨 Building |
-| 📊 Admin Dashboard Boilerplate | Next.js, Shadcn UI, Prisma | ✅ Done |
-| 🤖 AI Chatbot Integration | Next.js, LangChain, Redis | 🔨 Building |
-
----
 
 ## 📊 GitHub Stats
 
@@ -103,16 +91,6 @@ const mohit = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit888-r&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
----
-
-## 🎯 2026 Goals
-
-- [ ] 🏗️ Ship 3 production-grade full-stack projects
-- [ ] 📐 Master Low-Level + High-Level System Design
-- [ ] ☁️ AWS Certified Solutions Architect
-- [ ] 🧵 Build a public dev audience (LinkedIn + Medium)
-- [ ] 🌍 Contribute to 5+ open source projects
 
 ---
 
